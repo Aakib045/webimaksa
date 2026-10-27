@@ -6,7 +6,7 @@ import Link from 'next/link'
 import { useSearchParams } from 'next/navigation'
 
 const DEFAULT_MAPS =
-  'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4562.400915012314!2d55.32468608726146!3d25.251319771959633!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f69c6ef046ca5%3A0xa5898c916dde32a5!2sIMAKSA%20Real%20Estate%20LLC!5e1!3m2!1sen!2sae!4v1792675635908!5m2!1sen!2sae'
+  'https://www.google.com/maps/embed?pb=!4v1793020127085!6m8!1m7!1sS4rDwVQ19F-qTso-nPdnWw!2m2!1d25.25643242769783!2d55.32650132333288!3f323.7442284993616!4f-0.8914478881194867!5f0.7820865974627469'
 
 const FAQS = [
   {
