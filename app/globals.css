@@ -42,7 +42,6 @@ body {
   color: var(--foreground);
 }
 
-* { cursor: none !important; }
 @media (hover: none) and (pointer: coarse) {
   * { cursor: auto !important; }
 }
